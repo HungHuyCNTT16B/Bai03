@@ -9,6 +9,6 @@ function timGiaTriLonNhat(arr) {
 
   return max;
 }
-console.log(timGiaTriLonNhat([1, 3, 5, 2, 4])); // Output: 5
-console.log(timGiaTriLonNhat([10, 7, 21, 15, 9])); // Output: 21
-console.log(timGiaTriLonNhat([-1, -5, -3, -2, -4])); // Output: -1
+console.log(timGiaTriLonNhat([7, 2, 8, 6, 4])); // Output: 8
+console.log(timGiaTriLonNhat([20, 19, 10, 15, 7])); // Output: 20
+console.log(timGiaTriLonNhat([-9, 4, -1, -2, -5])); // Output: 4
